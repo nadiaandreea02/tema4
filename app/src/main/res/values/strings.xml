@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tema_laborator4</string>
+
+    <string name="inputText1">Enter something here</string>
+    <string name="btnAddText">Add</string>
+
+</resources>
